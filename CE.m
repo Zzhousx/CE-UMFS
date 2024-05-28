@@ -1,4 +1,4 @@
-function [U, ConsenX, obj] = CE-UMFS(X,param,options)
+function [U, ConsenX, obj] = CE(X,param,options)
 %%paramter:
 % lambda1: local structure preserve
 % lambda2: HSIC 
